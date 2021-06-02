@@ -1,0 +1,1 @@
+javac -d destdir path 将编译生成的字节码文件存放到指定的文件夹中
